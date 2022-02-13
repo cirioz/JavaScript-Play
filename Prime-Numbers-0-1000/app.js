@@ -35,5 +35,7 @@ for(j = 2; j < 1000; j++)
     if (prime)
     {
         console.log(j)
+        console.log(j)
     }
+
 }
